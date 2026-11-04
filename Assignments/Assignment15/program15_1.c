@@ -1,1 +1,30 @@
+//=====================================================================
+//  //  Author Name : Aakash Prakash Khopkar
+//      Date        : 04/11/2026
+////---------------------------------------------------------------------
+// 
+//  
+// Q.1) Write a program which accept name from user and print that 
+//      name.                                            
+//  
+// 
+//---------------------------------------------------------------------
+//  Input  : Piyush Khairnar
+//  Output : Piyush Khairnar
+//---------------------------------------------------------------------
+//=====================================================================
 
+#include<stdio.h>
+#include<stdlib.h>
+
+int main()
+{
+    char Name[30];
+
+    printf("Enter full name : \n");
+    scanf("%[^\n]s",Name);
+
+    printf("%s",Name);
+
+    return EXIT_SUCCESS;
+}
