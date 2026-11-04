@@ -1,12 +1,12 @@
-//Write a program which accepts number from user and display its digits in reverse order
-#include<stdio.h>
-#include<stdlib.h>
+//write a program which accepts range from user and display all even numbers in between that range 
+#include <stdio.h>
+#include <stdlib.h>
 
 //////////////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name: DisplayDigit
-//  Description  : accepts number from user and display its digits in reverse order
-//  Input        : Integer
+//  Function Name: RangeDisplayEven
+//  Description  : accepts range from user and display all even numbers in between that range
+//  Input        : Integer , Integer
 //  Output       : Integer
 //  Date         : 03/11/2026
 //  Author       : Aakash Prakash Khopkar
