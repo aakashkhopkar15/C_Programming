@@ -1,5 +1,18 @@
-#include <stdio.h>
-#include <stdlib.h>
+//Write a program which accepts number from user and display its digits in reverse order
+#include<stdio.h>
+#include<stdlib.h>
+
+//////////////////////////////////////////////////////////////////////////////////////
+//
+//  Function Name: DisplayDigit
+//  Description  : accepts number from user and display its digits in reverse order
+//  Input        : Integer
+//  Output       : Integer
+//  Date         : 03/11/2026
+//  Author       : Aakash Prakash Khopkar
+//
+//////////////////////////////////////////////////////////////////////////////////////
+
 
 int RangeSum(int istart, int iend)
 {
