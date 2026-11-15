@@ -6,6 +6,17 @@
     1   3   5   7   9
 */
 
+//////////////////////////////////////////////////////////////////////////////////////
+//
+//  Function Name: Pattern
+//  Description  : Accept number of rows and columns from user and display below pattern
+//  Input        : Integer
+//  Output       : string
+//  Date         : 10/11/2026
+//  Author       : Aakash Prakash Khopkar
+//
+//////////////////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 #include<stdlib.h>
 
